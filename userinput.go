@@ -4,6 +4,7 @@ import "fmt"
 
 func main(){
 	var firstname string
+	//fmt.Printf("Reference %T",&firstname)
 	fmt.Printf("Enter your first Name: ")
 	fmt.Scan(&firstname) // Getting input
 	var lastname string
@@ -14,5 +15,5 @@ func main(){
 	fmt.Scan(&age) // In Go pointer is special type of varibale
 
 	fmt.Printf("Hey! you're %v %v and you're %v years old",firstname,lastname,age)
-
+	
 }
