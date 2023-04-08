@@ -13,4 +13,6 @@ func main(){
 	fmt.Printf("Enter your age: ")
 	fmt.Scan(&age) // In Go pointer is special type of varibale
 
+	fmt.Printf("Hey! you're %v %v and you're %v years old",firstname,lastname,age)
+
 }
