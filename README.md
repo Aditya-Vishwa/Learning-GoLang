@@ -1,6 +1,8 @@
-# Learning-GoLang
-## GoLang:
-Go is a statically typed, compiled high-level programming language designed at Google by Robert Griesemer, Rob Pike, and Ken Thompson. It is syntactically similar to C, but with memory safety, garbage collection, structural typing, and CSP-style concurrency.
+<div>
+<h1>Learning-GoLang</h>
+<h2>GoLang:</h2>
+<p>Go is a statically typed, compiled high-level programming language designed at Google by Robert Griesemer, Rob Pike, and Ken Thompson. It is syntactically similar to C, but with memory safety, garbage collection, structural typing, and CSP-style concurrency.</p>
+</div>
 
 ## Setup:
 For setup we need two thing:
